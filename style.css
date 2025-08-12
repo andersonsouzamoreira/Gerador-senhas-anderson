@@ -117,7 +117,7 @@ label{
     cursor: pointer;
 }
 
-.barras{
+.barra{
     background-color: var(--fundo-senha);
     height: 30px;
     width: 100%;
